@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7C334253-5E63-44BA-875E-220F434C4E72"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C61C8964-C3FF-4F47-A8C5-BA312E99DF0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViperDemo/FruitList/Interactor/FruitListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getLocalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C61C8964-C3FF-4F47-A8C5-BA312E99DF0E - c8605247229b8ecf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ViperDemo.FruitListInteractor.getLocalData() -&gt; ()"
+                  moduleName = "ViperDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romil/Downloads/ViperDemo/ViperDemo/FruitList/Interactor/FruitListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "C61C8964-C3FF-4F47-A8C5-BA312E99DF0E - c8605247229b8e2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ViperDemo.FruitListInteractor.getLocalData() -&gt; ()"
+                  moduleName = "ViperDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romil/Downloads/ViperDemo/ViperDemo/FruitList/Interactor/FruitListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C77F7C1-5B71-44DB-886D-66AE15A0DE9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViperDemo/UniversityList/Interactor/UniversityListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getLocalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "935665CB-A2AC-49B3-BEDD-E35D873E6412"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViperDemo/UniversityList/Interactor/UniversityListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getAllUniversityDetail()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA1C4C9C-825E-4244-AD3A-805976D82B8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViperDemo/UniversityList/Interactor/UniversityListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getAllUniversityDetail()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA1C4C9C-825E-4244-AD3A-805976D82B8C - 9017781a70798466"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;ViperDemo.UniversityObject&gt;, Swift.Error&gt;) -&gt; () in ViperDemo.UniversityListInteractor.getAllUniversityDetail() -&gt; ()"
+                  moduleName = "ViperDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romil/Downloads/ViperDemo/ViperDemo/UniversityList/Interactor/UniversityListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "EA1C4C9C-825E-4244-AD3A-805976D82B8C - 9017781a70798466"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;ViperDemo.UniversityObject&gt;, Swift.Error&gt;) -&gt; () in ViperDemo.UniversityListInteractor.getAllUniversityDetail() -&gt; ()"
+                  moduleName = "ViperDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romil/Downloads/ViperDemo/ViperDemo/UniversityList/Interactor/UniversityListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
